@@ -1,0 +1,82 @@
+header {
+  text-align: center;
+  margin: 0 0 40px;
+}
+
+.languages {
+  font-size: 75%;
+  margin: 10px 0 10px;
+  text-align: right;
+}
+
+.languages a {
+  color: #999;
+}
+
+header nav {
+  margin-top: 20px;
+}
+
+.logo {
+  font-size: 200%;
+  font-weight: bold;
+  margin-top: 40px;
+}
+
+.slogan h1,
+.slogan h2 {
+  color: #999;
+  font-size: 150%;
+  font-style: italic;
+  font-weight: normal;
+  margin: 0px 0 40px;
+}
+
+.content {
+  line-height: 1.25;
+}
+
+.muted {
+  color: #999;
+}
+
+.comments {
+  margin-top: 40px;
+}
+
+.comment {
+  font-size: 80%;
+}
+
+.commentform-error {
+  color: #900;
+  font-size: 80%;
+  margin-bottom: 20px;
+}
+
+.commentform label {
+  font-size: 80%;
+  margin-top: 10px;
+}
+
+.commentform label,
+.commentform button {
+  display: block;
+}
+
+.commentform input { width: 50%; }
+.commentform textarea { width: 100%; }
+.commentform input, .commentform textarea {
+  line-height: 1.5;
+}
+
+footer {
+  font-size: 75%;
+  line-height: 1.5;
+  margin: 40px 0;
+}
+
+.news small {
+  font-size: 100%;
+  font-weight: normal;
+}
